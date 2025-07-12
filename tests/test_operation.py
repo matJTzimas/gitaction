@@ -2,7 +2,7 @@ from src.math_operation import *
 
 def test_add():
     assert add(5,4)==9
-    assert add(5,6)==10
+    assert add(5,6)==11
     assert add(4,4)==8
     
 def test_minus():
